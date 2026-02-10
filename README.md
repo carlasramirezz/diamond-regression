@@ -1,4 +1,4 @@
-# Diamond Regression Project (March-April 2023)
+# Diamond Regression Project
 
 # Overview
 This project uses multiple linear regression to analyse which diamond attributes most strongly influence price. The goal is to build an interpretable model, clean the dataset appropriately, and translate coefficients into commercially meaningful insights.
